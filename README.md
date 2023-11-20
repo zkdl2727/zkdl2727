@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+안녕하세요 백엔드 개발자를 목표로 하고 있는 김성수입니다. 
 <!--
 **zkdl2727/zkdl2727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
