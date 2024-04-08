@@ -2,6 +2,7 @@
 
 
 안녕하세요! 백엔드 개발자 김성수를 목표하고 있는 김성수라고합니다. 
+
 유연하고 확장성 있는 아키텍처 설계에 관심이 많으며, 당장의 기능 구현보다는 기능 확장과 데이터 처리 방법을 고려한 설계/개발을 위해 노력합니다.😁😁
 
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
