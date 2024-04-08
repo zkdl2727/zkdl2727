@@ -8,10 +8,10 @@
 
 ![zkdl2727's github stats](https://github-readme-stats.vercel.app/api?username=zkdl2727&show_icons=true) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zkdl2727)](https://solved.ac/백준아이디/)
 ### How to reach me 🔍
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zkdl2828@gamil.com)](mailto:zkdl2828@gamil.com) ![js](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zkdl2828@gamil.com)](mailto:zkdl2828@gamil.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:zkdl6565@naver.com)](mailto:zkdl6565@naver.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@zkdl2727/posts)](https://velog.io/@zkdl2727/posts)
 <!--
 **zkdl2727/zkdl2727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-
+https://velog.io/@zkdl2727/posts
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
