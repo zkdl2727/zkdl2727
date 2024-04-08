@@ -8,7 +8,7 @@
 
 ![zkdl2727's github stats](https://github-readme-stats.vercel.app/api?username=zkdl2727&show_icons=true) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zkdl2727)](https://solved.ac/백준아이디/)
 ### How to reach me 🔍
-![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![js](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zkdl2828@gamil.com)](mailto:zkdl2828@gamil.com) ![js](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <!--
 **zkdl2727/zkdl2727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
