@@ -3,8 +3,8 @@
 
 안녕하세요! 백엔드 개발자 김성수라고 합니다. 
 유연하고 확장성 있는 아키텍처 설계에 관심이 많으며, 당장의 기능 구현보다는 기능 확장과 데이터 처리 방법을 고려한 설계/개발을 위해 노력합니다.😁😁
+![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 ![zkdl2727's github stats](https://github-readme-stats.vercel.app/api?username=zkdl2727&show_icons=true) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zkdl2727)](https://solved.ac/백준아이디/)
 ### How to reach me 🔍
 ![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![js](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
